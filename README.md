@@ -1,7 +1,9 @@
 ### Olá, sou o Genilson Junior 
  
-Estudante de Engenharia de Software, construindo uma base sólida em Backend Java
+Estudante de Engenharia de Software, construindo uma base sólida em Backend Java.
+
 Estudando atualmente: **Java, Spring Boot, SQL, Docker e Arquitetura de Software**
+
 Projeto em andamento: migrando o `library-manager` de Java puro para Spring Boot (JPA, H2, arquitetura em camadas)
  
 ---
