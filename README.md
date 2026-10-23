@@ -26,15 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
-###
 
-<div data-importer="stats" align="left">
-  <img src=".github/workflows/stats.yml" height="150" alt="stats graph"  />
-  <img src=".github/workflows/languages.yml" height="150" alt="languages graph"  />
-  <img src=".github/workflows/activity-graph.yml" height="300" alt="activity-graph graph"  />
-</div>
-
-###
 
 <div data-importer="socials" align="left">
   <a href="https://www.instagram.com/g.jjunior_" target="_blank">
