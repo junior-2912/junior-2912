@@ -7,7 +7,7 @@
 <p data-importer="text" align="left">Hello, I’m Genilson Junior <br> <br>A Software Engineering student, building a solid foundation in Java backend development.<br><br>Currently studying: Java, Spring, SQL, Docker, and Software Architecture.</p>
 
 ###
-
+<h2>Techs</h2>
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
@@ -27,7 +27,7 @@
 </div>
 
 
-
+<h2>Social Media</h2>
 <div data-importer="socials" align="left">
   <a href="https://www.instagram.com/g.jjunior_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
